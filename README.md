@@ -21,7 +21,7 @@ Run the above mentioned command in any Terminal or Command Prompt.
 
 ### Usage
 
-1. Download AutoTyper from the [releases page](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) of this repository.
+1. Download AutoTyper from the [releases page](https://github.com/amoghkrishna55/iamneo/releases/tag/v1.0.0) of this repository.
 
 2. Extract the ZIP file and open it in vscode.
 
