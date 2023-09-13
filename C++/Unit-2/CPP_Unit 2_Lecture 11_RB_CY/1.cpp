@@ -34,7 +34,7 @@ int main(){
     cin >> c >> d;
     if(c>a || d>b || c==0 || d==0){
         cout << "Invalid row numbers";
-        return -1;
+        return 0;
     }
     for(int j=0;j<b;j++){
         swap(arr[c-1][j],arr[d-1][j]);
