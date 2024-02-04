@@ -17,7 +17,7 @@ Install the necessary package using pip:
 ```bash
 pip install pyautogui
 ```
-Run the above mentioned command in any Terminal or Command Prompt.
+Run the above mentioned command in any Terminal.
 
 ### Usage
 
